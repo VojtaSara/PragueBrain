@@ -6,8 +6,6 @@
 
 - Isochrones - show which points on a map are reachable within n minutes of walking / cycling / driving
 
-![Roc%CC%8Cni%CC%81kovy%CC%81%20projekt%20-%20Vojta%20S%CC%8Ca%CC%81ra%20914ce22e26d24123be2f0488e99b1389/Untitled.png](Roc%CC%8Cni%CC%81kovy%CC%81%20projekt%20-%20Vojta%20S%CC%8Ca%CC%81ra%20914ce22e26d24123be2f0488e99b1389/Untitled.png)
-
 Resources for isochrones:
 
 [https://github.com/joshdoe/pysochrone](https://github.com/joshdoe/pysochrone)
@@ -23,8 +21,6 @@ V návaznosti na předmět "Přírodou inspirované algoritmy" jsem natrénoval 
 Domnívám se, že tento přístup by mohl poskytnout další zajímavé směry explorace - stačí vymyslet, co smysluplného by šlo na mapách ještě hledat.
 
 Ukázka fungování:
-
-![Roc%CC%8Cni%CC%81kovy%CC%81%20projekt%20-%20Vojta%20S%CC%8Ca%CC%81ra%20914ce22e26d24123be2f0488e99b1389/results.jpg](Roc%CC%8Cni%CC%81kovy%CC%81%20projekt%20-%20Vojta%20S%CC%8Ca%CC%81ra%20914ce22e26d24123be2f0488e99b1389/results.jpg)
 
 - Vizualizace dat
 
